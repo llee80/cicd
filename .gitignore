@@ -6,11 +6,14 @@ build/
 !**/src/test/**/build/
 
 ### STS ###
-.apt_generated
-.classpath
-.factorypath
-.project
+.gradle
 .settings
+application.properties
+.bin
+.lock
+.erd
+.apt_generated
+.factorypath
 .springBeans
 .sts4-cache
 bin/
