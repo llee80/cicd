@@ -32,4 +32,4 @@ public class CICDCont {
     }
     
     return "<h3>" + msg + "</h3>";
-  }
+  }1
